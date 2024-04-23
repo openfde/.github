@@ -8,7 +8,7 @@ OpenFDE代码仓库[https://github.com/openfde](https://gitee.com/openfde), 主�
 &emsp;&emsp;&emsp;&emsp;1. Adnroid程序相关代码仓：AOSP源码树的组成部分 <br>
 &emsp;&emsp;&emsp;&emsp;2. Linux程序相关代码仓：如fde_ctrl、fde_fs、Waydroid_waydriod、fdeion(内核模块)等几个仓库 <br>
 &emsp;&emsp;&emsp;&emsp;3. 打包仓库: [https://github.com/openfde/make_deb](https://github.com/openfde/make_deb) <br>
-&emsp;&emsp;&emsp;&emsp;4. 用于管理AOSP源码仓库的管理仓：[https://github.com/openfde/manifests](https://github.com/openfde/fde_manifests) <br>
+&emsp;&emsp;&emsp;&emsp;4. 用于管理AOSP源码仓库的管理仓：[https://github.com/openfde/manifests](https://github.com/openfde/fde-manifests) <br>
 
 文档站：[https://gitee.com/openfde/openfde-doc](https://openfde.atlassian.net/wiki/spaces/OpenFDE/overview?homepageId=2457985)，用于存放OpenFDE社区所有的用户相关文档、开发相关文档、社区相关文档以及博客文章等。
 
