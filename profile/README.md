@@ -9,7 +9,7 @@
 &emsp;&emsp;&emsp;&emsp;3. package making: [https://github.com/openfde/make_deb](https://github.com/openfde/make_deb) <br>
 &emsp;&emsp;&emsp;&emsp;4. manifests repo for android source ：[https://github.com/openfde/manifests](https://github.com/openfde/fde-manifests) <br>
 
-Document repo：[https://gihub.com/openfde/openfde-doc](https://openfde.atlassian.net/wiki/spaces/OpenFDE/overview?homepageId=2457985)，serves as a central hub for all user-related documents, development-related documents, community-related documents, and blog articles within the OpenFDE community.。
+Document repo：[https://github.com/openfde/openfde-doc](https://openfde.atlassian.net/wiki/spaces/OpenFDE/overview?homepageId=2457985)，serves as a central hub for all user-related documents, development-related documents, community-related documents, and blog articles within the OpenFDE community.。
 
 ### How to join OpenFDE
 
@@ -22,6 +22,6 @@ OpenFDE compiling and building：[quick start](https://openfde.atlassian.net/wik
 ### Contact us
 
 - Main page：[https://openfde.com ](https://openfde.com )<br>
-- Question Feedback：[https://gitee.com/openfde/problem-feedback/issues ](https://gitee.com/openfde/problem-feedback/issues) <br>
+- Question Feedback：[https://github.com/openfde/issues ](https://gitub.com/openfde/issues) <br>
 - Sucribe us：[https://groups.io/g/openfde/topics](https://groups.io/g/openfde/topics)
 
