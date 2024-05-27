@@ -22,6 +22,6 @@ OpenFDE compiling and building：[quick start](https://openfde.atlassian.net/wik
 ### Contact us
 
 - Main page：[https://openfde.com ](https://openfde.com )<br>
-- Question Feedback：[https://github.com/openfde/openfde/issues ](https://gitub.com/openfde/openfde/issues) <br>
+- Question Feedback：[https://github.com/openfde/openfde/issues ](https://github.com/openfde/openfde/issues) <br>
 - Sucribe us：[https://groups.io/g/openfde/topics](https://groups.io/g/openfde/topics)
 
