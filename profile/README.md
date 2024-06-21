@@ -4,7 +4,7 @@
 
 ### Repository Introduction:
 
-&emsp;&emsp;&emsp;&emsp;1. Adnroid releated repos：AOSP repos <br>
+&emsp;&emsp;&emsp;&emsp;1. Android releated repos：AOSP repos <br>
 &emsp;&emsp;&emsp;&emsp;2. Linux programs ：like fde_ctrl、fde_fs、Waydroid_waydriod、fdeion(kernel module)and so on <br>
 &emsp;&emsp;&emsp;&emsp;3. package making: [https://github.com/openfde/make_deb](https://github.com/openfde/make_deb) <br>
 &emsp;&emsp;&emsp;&emsp;4. manifests repo for android source ：[https://github.com/openfde/manifests](https://github.com/openfde/fde-manifests) <br>
